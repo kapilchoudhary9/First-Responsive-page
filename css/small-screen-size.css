@@ -1,0 +1,21 @@
+#services .box img{
+    width: 100px;
+    height: 66px;
+}
+.h-primary{
+    font-size: 1.1rem;
+}
+p{
+    font-size: 0.8rem;
+}
+ul li a{
+    font-size: 0.8rem;
+}
+#home::before{
+    height: 390px;
+
+}
+#home{
+    height: 278px;
+
+}
