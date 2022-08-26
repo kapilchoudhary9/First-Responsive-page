@@ -10,3 +10,20 @@ ul li a{
 #contact-box form{
     width: 96%;
 }
+.h-secondary{
+    font-size: 1rem;
+}
+p{
+    font-size: 0.9rem;
+}
+.btn{
+    padding: 3px 3px;
+    border: 2px solid white;
+    background-color:brown;
+    color: white;
+    margin: 30px;
+    font-size: 1.2rem;
+    border-radius: 10px;
+    cursor: pointer;
+    
+}
